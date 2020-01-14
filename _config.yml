@@ -48,24 +48,17 @@ more_content: | # this will include new lines to allow paragraphs
   <ul>
     <li>Telefon Numarası: 0542 445 73 50 </li>
   </ul>
-
-more_title: Sertifikalar
-more_content: | # this will include new lines to allow paragraphs
-  <ul>
-    <li>A1, A2 seviye İngilizce, Amerikan Dil Kültür Okulları.</li>
-    <li>Ofis Programları Kullanımı, Word, Excel ve Microsoft PowerPoint, İSMEK.</li>
-  </ul>
   
-more_title: Katılım Belgeleri
+more_title: Sertifikalar ve Katılım Belgeleri
 more_content: | # this will include new lines to allow paragraphs
  <ul>
-    <li>Bilginin Gücü Sertifikası” İlber Ortaylı (Tarih Profesörü) </li>
-    <li>Gençlik ve Spor Bakanlığı Damla Projesi Huzurevi Teması Gönüllü Çalışma </li>
-    <li>“Geleceğin İş Hayatı”, “İyi Hissetmeyi Seç”, “Neden Hepimiz Blok Flüt</li>
-    <li>Çaldık?” Yaşamartı Zirve İstanbul, Erdem Aksakal, Ozanser Uğurlu, Burak Ünaldı. </li>
-    <li>Dağcılık</li>
-    <li>“Etkili Konuşma ve Beden Dili” Yaşamartı Zirve İstanbul, Erhan Ertürk (Haber Spikeri) </li>
-    <li>“Çocukların Okuma Alışkanlığı” “Çocuk Kütüphaneleri” İstanbul Üniversitesi Bilgi ve Belge Yöneticileri Derneği </li>
+    <li>Amerikan Dil Kültür Okulları A1, A2 Seviye İngilizce Sertifikası</li>
+    <li>İSMEK, Ofis Programları Kullanımı, Word, Excel ve Microsoft PowerPoint Sertifikası</li>
+    <li>İlber Ortaylı (Tarih Profesörü), Bilginin Gücü Sertifikası</li>
+    <li>Gençlik ve Spor Bakanlığı Damla Projesi Huzurevi Teması Gönüllü Çalışma, Katılım Belgesi</li>
+    <li>“Geleceğin İş Hayatı”, “İyi Hissetmeyi Seç”, “Neden Hepimiz Blok Flüt Çaldık?” Yaşamartı Zirve İstanbul, Erdem Aksakal, Ozanser Uğurlu, Burak Ünaldı, Katılım Belgesi</li>
+    <li>Erhan Ertürk (Haber Spikeri), “Etkili Konuşma ve Beden Dili” Yaşamartı Zirve İstanbul, Katılım Belgesi</li>
+    <li>“Çocukların Okuma Alışkanlığı” “Çocuk Kütüphaneleri” İstanbul Üniversitesi Bilgi ve Belge Yöneticileri Derneği, Katılım Belgesi</li>
   </ul>
 
 # Footer
