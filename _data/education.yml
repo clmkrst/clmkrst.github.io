@@ -1,10 +1,21 @@
 - layout: left
   name: Atatürk Üniversitesi
-  dates: 2015- 2019
-  qualification: Bilgisayar Mühendisliği
+  dates: 2015 - 2017
+  qualification: Bilgi ve Belge Yönetimi
   quote: >
     Atatürk Üniversitesi, 1957 yılında Erzurum'da kurulmuş, Türkiye'nin en eski yedinci üniversitesidir.
   description: | # this will include new lines to allow paragraphs
-    Atatürk Üniversitesi'nde geçirdiğim süre zarfında takım çalışması ve bireysel çalışmalar gibi kariyerim boyunca gerekli olacak temel becerilerimin çoğunu öğrendim. Üniversite hayatımda geçirdiğim zamandan çok zevk aldım ve sağlıklı bir iş hayatı dengesi hakkında çok şey öğrendim.
-    <br><br>
+    Atatürk Üniversitesi'nde geçirdiğim süre zarfında takım çalışması ve bireysel çalışmalar gibi kariyerim boyunca gerekli olacak temel becerilerimin çoğunu öğrendim.
+ 
+ 
+- layout: left
+  name: İstanbul Üniversitesi
+  dates: 2017 - 2019
+  qualification: Bilgi ve Belge Yönetimi
+  quote: >
+    18 Kasım 1933'te Türkiye'nin ilk ve tek üniversitesi olarak öğrenim hayatına başlamıştır.
+  description: | # this will include new lines to allow paragraphs
+    Daha farklı tecrübeler kazanmak adına yaptığım yatay geçiş başvurumun ardından eğitim hayatıma burada devam ettim.<br><br>
     <b>Not Ortalamam:</b><mark>2,58 (maksimum ortalama 4,00)</mark>
+    
+   
