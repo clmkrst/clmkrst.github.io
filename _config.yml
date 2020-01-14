@@ -31,33 +31,32 @@ educaton_title: Akademik Bilgilerim
 more_title: Sertifikalar ve Katılım Belgeleri
 more_content: | # this will include new lines to allow paragraphs
  <ul>
-    <li>Amerikan Dil Kültür Okulları A1, A2 Seviye İngilizce Sertifikası</li>
-    <li>İSMEK, Ofis Programları Kullanımı, Word, Excel ve Microsoft PowerPoint Sertifikası</li>
-    <li>İlber Ortaylı (Tarih Profesörü), Bilginin Gücü Sertifikası</li>
-    <li>Gençlik ve Spor Bakanlığı Damla Projesi Huzurevi Teması Gönüllü Çalışma, Katılım Belgesi</li>
-    <li>“Geleceğin İş Hayatı”, “İyi Hissetmeyi Seç”, “Neden Hepimiz Blok Flüt Çaldık?” Yaşamartı Zirve İstanbul, Erdem Aksakal, Ozanser Uğurlu, Burak Ünaldı, Katılım Belgesi</li>
-    <li>Erhan Ertürk (Haber Spikeri), “Etkili Konuşma ve Beden Dili” Yaşamartı Zirve İstanbul, Katılım Belgesi</li>
-    <li>“Çocukların Okuma Alışkanlığı” “Çocuk Kütüphaneleri” İstanbul Üniversitesi Bilgi ve Belge Yöneticileri Derneği, Katılım Belgesi</li>
-  </ul>
-
-reference_title: Referanslar
-reference_content: | # this will include new lines to allow paragraphs
-  Şule Yılmaz, Enka Okulları İlk Okul Kütüphane Görevlisi 
+    <li>Amerikan Dil Kültür Okulları A1, A2 Seviye İngilizce <strong>Sertifikası</strong></li>
+    <li>İSMEK, Ofis Programları Kullanımı, Word, Excel ve Microsoft PowerPoint <strong>Sertifikası</strong></li>
+    <li>İlber Ortaylı (Tarih Profesörü), Bilginin Gücü <strong>Sertifikası</strong></li>
+    <li>Gençlik ve Spor Bakanlığı Damla Projesi Huzurevi Teması Gönüllü Çalışma, <strong>Katılım Belgesi</strong></li>
+    <li>“Geleceğin İş Hayatı”, “İyi Hissetmeyi Seç”, “Neden Hepimiz Blok Flüt Çaldık?” Yaşamartı Zirve İstanbul, Erdem Aksakal, Ozanser Uğurlu, Burak Ünaldı, <strong>Katılım Belgesi</strong></li>
+    <li>Erhan Ertürk (Haber Spikeri), “Etkili Konuşma ve Beden Dili” Yaşamartı Zirve İstanbul, <strong>Katılım Belgesi</strong></li>
+    <li>“Çocukların Okuma Alışkanlığı” “Çocuk Kütüphaneleri” İstanbul Üniversitesi Bilgi ve Belge Yöneticileri Derneği, <strong>Katılım Belgesi</strong></li>
+  </ul><br><br>br>
+  
+  <strong><h3>Referanslar</h3></strong>
+  <p>Şule Yılmaz, Enka Okulları İlk Okul Kütüphane Görevlisi</p>
   <ul>
     <li>Telefon Numarası: 0532 361 32 08</li>
     <li>E-Posta: sule.yilmaz@enka.k12.tr</li>
   </ul>
-  Ümit Konya, İstanbul Üniversitesi Bilgi ve Belge Yönetimi, Bölüm Profesörü
+  <p>Ümit Konya, İstanbul Üniversitesi Bilgi ve Belge Yönetimi, Bölüm Profesörü</p>
   <ul>
     <li>Telefon Numarası: 0535 415 01 97</li>
     <li>E-Posta: umitkonya@hotmail.com</li>
   </ul>
-  Özlem Bayrak, TC Cumhurbaşkanlığı Külliyesi Hadımköy Projesi Danışmanı
+  <p>Özlem Bayrak, TC Cumhurbaşkanlığı Külliyesi Hadımköy Projesi Danışmanı</p>
   <ul>
     <li>Telefon Numarası: 0533 512 43 48</li>
   </ul>
-  Hatice Gülçur İnanç TC Cumhurbaşkanlığı Külliyesi Hadımköy Projesi Danışmanı
-  <ul>
+  <p>Hatice Gülçur İnanç TC Cumhurbaşkanlığı Külliyesi Hadımköy Projesi Danışmanı</p>
+   <ul>
     <li>Telefon Numarası: 0542 445 73 50 </li>
   </ul>
 
