@@ -30,5 +30,10 @@
   company: Hiperlink
   job_title: T.C. Cumhurbaşkanlığı Külliyesi Hadımköy Projesi
   description: | # this will include new lines to allow paragraphs
-    o	RDA kataloglama kurallarına göre Yordam kütüphane otomasyon programı kullanarak ayrıntılı kataloglama yapılması, LC sınıflama sistemine göre sınıflama numarası verilmesi, Dewey onlu sınıflama sistemine göre sınıflama numarası verilmesi, RFID ve IC sınıflama numarasına göre kolileme yapılması.
+    RDA kataloglama kurallarına göre Yordam kütüphane otomasyon programı kullanarak ayrıntılı kataloglama yapılması, LC sınıflama sistemine göre sınıflama numarası verilmesi, Dewey onlu sınıflama sistemine göre sınıflama numarası verilmesi, RFID ve IC sınıflama numarasına göre kolileme yapılması.
    
+- layout: left
+  company: Gençlik ve Spor Bakanlığı Biz Anadoluyuz Projesi 
+  job_title: Koordinatör
+  description: | # this will include new lines to allow paragraphs
+    
