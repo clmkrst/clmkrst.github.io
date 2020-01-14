@@ -1,24 +1,34 @@
 - layout: left
-  company: Türk Telekomünikasyon A.Ş.
-  link: https://www.turktelekom.com.tr/
-  job_title: Stajyer Mühendis
-  dates: Ağustos - 2017
+  company: Gaziosmanpaşa İlçe Halk Kütüphanesi, İstanbul
+  job_title: Gönüllü Kütüphaneci
+  dates: Ocak-Mart, 2018
   description: | # this will include new lines to allow paragraphs
-    Ekipteki kişilerle ve yöneticilerle iletişim kurmak, istenenleri bir plan doğrultusunda tamamlamak, ürün geliştirme üzerine ya da bir sorunu çözmek için görevlendirilen personellere yardımcı olmak, bunun dışında sürdürülebilir ve test edilmiş kod yazımına destek olmak gibi sorumlulukları üstlenerek stajımı tamamladım.
-
+    Gönüllü kütüphaneci olarak çalıştım. Halk kütüphanelerinin işleyişi, Kataloglaması ve kullanılan programları tanıma fırsatı yakaladım. Kullanıcı-kütüphane ilişkisi, civardaki okullardaki öğrencilere, kütüphaneleri tanıtma amaçlı programlar düzenleme işlemlerine katıldım.
+    
 - layout: left
-  company: Sinerji Bilişim
-  link: https://www.bizmed.com.tr/
-  job_title: Stajyer Mühendis
-  dates: Temmuz - 2018
+  company: Sabahattin Zaim Üniversitesi Kütüphanesi, İstanbul
+  job_title: Stajyer Kütüphaneci
+  dates: Haziran-Temmuz, 2018
   description: | # this will include new lines to allow paragraphs
-    Edindiğim mesleki deneyimleri uygulamaya koyup ve şirket ihtiyaçları doğrultusunda ürünler geliştirerek stajımı tamamladım.
+    Stajyer kütüphaneci olarak çalıştım. Bilgi işlem birimi, kataloglama birimi ve referans hizmetleri birimlerinde yer aldım. YORDAM üzerinden kataloglama yaptım. Veri tabanları, ILL (kütüphaneler arası iş birliği) sistemini öğrenip, uygulama gerçekleştirdim. Kataloglama, tasnif, etiketleme, RDA işlemlerini gerçekleştirdim.
  
 - layout: left
-  company: Barsoft Barkod Çözümleri
-  link: http://www.barsoft.com.tr/
-  job_title: Stajyer Mühendis
-  dates: Temmuz - 2019
+  company: T.C. Cumhurbaşkanlığı Devlet Arşivleri Başkanlığı, İstanbul
+  job_title: Stajyer Arşivci
+  dates: Temmuz-Ağustos, 2018
   description: | # this will include new lines to allow paragraphs
-    Firmanın donanımsal olarak sahip olduğu sistemleri inceledim. Barkod okuyucu uygulamaları hakkında bilgi aldım ve bu ürünlerden yola çıkarak Raspberry Pi ve Arduino Uno ile kart okuyucu sistem projeleri geliştirdim.
-    
+    Stajyer arşivci olarak görev aldığım çoğunlukla Osmanlı belgelerinin yer aldığı arşivde, Tasnif I, Tasnif II birimleri, Restorasyon birimi ve depoda etkin olarak faaliyet gösterdim. Belgelerin onarımdan, tasnifi, düzenlenmesi ve gömleklerinin değişimi vb. işlemleri öğrendim.
+
+- layout: left
+  company: İstanbul Üniversitesi Merkez Kütüphanesi, İstanbul
+  job_title: Dijital Arşiv ve Yazılım Hizmetleri
+  dates: Ağustos-Eylül, 2018
+  description: | # this will include new lines to allow paragraphs
+    İstanbul Üniversitesi Merkez Kütüphanesinde kataloglama biriminde yer aldım, derleme ve bağış yoluyla gelen materyallerin kataloglamasını yaptım.
+   
+- layout: left
+  company: Hiperlink
+  job_title: T.C. Cumhurbaşkanlığı Külliyesi Hadımköy Projesi
+  description: | # this will include new lines to allow paragraphs
+    o	RDA kataloglama kurallarına göre Yordam kütüphane otomasyon programı kullanarak ayrıntılı kataloglama yapılması, LC sınıflama sistemine göre sınıflama numarası verilmesi, Dewey onlu sınıflama sistemine göre sınıflama numarası verilmesi, RFID ve IC sınıflama numarasına göre kolileme yapılması.
+   
