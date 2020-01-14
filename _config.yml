@@ -3,58 +3,70 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Seher Gürel
-title: Bilgisayar Mühendisi
-phone: 05412965780
-email: shrgurel@gmail.com
-website: http://sehergurel.com/
-
-# Social links
-twitter_username: sehergurel
-github_username:  shrgrl
-# dribbble_username: jekyll
-facebook_username: seher.gurel2
-# flickr_username: jekyll
-instagram_username: sehergurell
-linkedin_username: sehergurel
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
+name: Çilem Karşıt
+title: Bilgi ve Belge Yönetimi
+phone: 0534 573 13 37
+email: cilem105@gmail.com
 
 # About Section
 about_title: Hakkımda
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Merhaba, ben Seher Gürel. 23 yaşındayım, Giresun'da doğdum. Lisans eğitimimi Erzurum'da, Atatürk Üniversitesi, Bilgisayar Mühendisliği Bölümü'nde tamamladım.
-  Eğitim hayatımda edindiğim bilgilerin üstüne her geçen gün yenilerini ekleyerek, süreklilik içinde kendimi geliştirmeye devam ediyorum.
-  Teknolojiyi en doğru şekilde kullanarak günlük yaşamda ihtiyaçları karşılayacak ya da eğlendirici, öğretici ürünler geliştirip insanlık adına faydalı işler yapmayı hedefliyorum.<br><br>
-  <b>Genel yeteneklerim:</b> &nbsp; &nbsp; &nbsp; <mark>Java</mark> <mark>JavaScript</mark> <mark>MongoDB</mark> <mark>NodeJS</mark> 
-  <mark>Redis Cache</mark> <mark>C/C++</mark> <mark>HTML</mark> <mark>Python</mark> <mark>OpenGL</mark> <mark>OpenCV</mark>
-  <mark>Raspberry Pi</mark> <mark>Arduino UNO</mark> <mark>Android Studio</mark> <mark>Fritzing</mark> <mark>StarUML</mark>
+  Merhaba, ben Çilem Karşıt. 1996 yılında Erzincan'da doğdum. Lisans eğitimimin bir kısmını Erzurum'da, Atatürk Üniversitesi, Bilgi ve Belge Yönetimi Bölümü'nde tamamladım.
+  Bir kısmına da İstanbul Üniversitesi, Bilgi ve Belge Yönetimi bölümünde tamamladım. Eğitim hayatımda edindiğim bilgilerin üstüne her geçen gün yenilerini ekleyerek, süreklilik içinde kendimi geliştirmeye devam ediyorum.<br><br>
+  <b>Genel yeteneklerim:</b> &nbsp; &nbsp; &nbsp; <mark>Yordam</mark> <mark>KOHA</mark> <mark>Sierra</mark>
   <br><br>
-  <b>Diller:</b> &nbsp; &nbsp; &nbsp; <mark>İNGİLİZCE &starf; &starf; &starf; &star; &star;</mark> <mark>ALMANCA &starf; &star; &star; &star; &star;</mark>
+  <b>Diller:</b> &nbsp; &nbsp; &nbsp; <mark>İNGİLİZCE &starf; &starf; &starf; &star; &star;</mark> <mark>ALMANCA &starf; &star; &star; &star; &star;</mark> <mark>OSMANLICA &starf; &starf; &starf; &star; &star;</mark>
 
 # Projects Section
-projects_title: Projelerim
+projects_title: Araştırmalarım
 
 # Experience Section
-experience_title: Tecrübelerim
+experience_title: İş Tecrübelerim
 
 # Education Section
 educaton_title: Akademik Bilgilerim
 
-# More Section
-more_title: İlgi Alanlarım ve Hobilerim
+more_title: Sertifikalar
 more_content: | # this will include new lines to allow paragraphs
-  Programcılık, yazılım, bilgisayar mühendisliğine olan ilgimin yanı sıra, diğer ilgi alanlarım ve hobilerim:
   <ul>
-    <li>Farklı kültürler tanımak</li>
-    <li>Müzik dinlemek</li>
-    <li>Kitap okumak</li>
-    <li>Resim yapmak</li>
+    <li>A1, A2 seviye İngilizce, Amerikan Dil Kültür Okulları.</li>
+    <li>Ofis Programları Kullanımı, Word, Excel ve Microsoft PowerPoint, İSMEK.</li>
+  </ul>
+  
+more_title: Katılım Belgeleri
+more_content: | # this will include new lines to allow paragraphs
+ <ul>
+    <li>Bilginin Gücü Sertifikası” İlber Ortaylı (Tarih Profesörü) </li>
+    <li>Gençlik ve Spor Bakanlığı Damla Projesi Huzurevi Teması Gönüllü Çalışma </li>
+    <li>“Geleceğin İş Hayatı”, “İyi Hissetmeyi Seç”, “Neden Hepimiz Blok Flüt</li>
+    <li>Çaldık?” Yaşamartı Zirve İstanbul, Erdem Aksakal, Ozanser Uğurlu, Burak Ünaldı. </li>
     <li>Dağcılık</li>
-    <li>Buz Pateni</li>
-    <li>Satranç...</li>
+    <li>“Etkili Konuşma ve Beden Dili” Yaşamartı Zirve İstanbul, Erhan Ertürk (Haber Spikeri) </li>
+    <li>“Çocukların Okuma Alışkanlığı” “Çocuk Kütüphaneleri” İstanbul Üniversitesi Bilgi ve Belge Yöneticileri Derneği </li>
+  </ul>
+  
+  
+# More Section
+more_title: Referanslar
+more_content: | # this will include new lines to allow paragraphs
+  Şule Yılmaz, Enka Okulları İlk Okul Kütüphane Görevlisi 
+  <ul>
+    <li>o	Telefon Numarası: 0532 361 32 08</li>
+    <li>E-Posta: sule.yilmaz@enka.k12.tr</li>
+  </ul>
+  Ümit Konya, İstanbul Üniversitesi Bilgi ve Belge Yönetimi, Bölüm Profesörü
+  <ul>
+    <li>o	Telefon Numarası: 0535 415 01 97</li>
+    <li>E-Posta: umitkonya@hotmail.com</li>
+  </ul>
+  Özlem Bayrak, TC Cumhurbaşkanlığı Külliyesi Hadımköy Projesi Danışmanı
+  <ul>
+    <li>o	Telefon Numarası: 0533 512 43 48</li>
+  </ul>
+  Hatice Gülçur İnanç TC Cumhurbaşkanlığı Külliyesi Hadımköy Projesi Danışmanı
+  <ul>
+    <li>o	Telefon Numarası: 0542 445 73 50 </li>
   </ul>
 
 # Footer
