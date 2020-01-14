@@ -14,7 +14,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Merhaba, ben Çilem Karşıt. 1996 yılında Erzincan'da doğdum. Lisans eğitimimin bir kısmını Erzurum'da, Atatürk Üniversitesi, Bilgi ve Belge Yönetimi Bölümü'nde tamamladım.
   Bir kısmına da İstanbul Üniversitesi, Bilgi ve Belge Yönetimi bölümünde tamamladım. Eğitim hayatımda edindiğim bilgilerin üstüne her geçen gün yenilerini ekleyerek, süreklilik içinde kendimi geliştirmeye devam ediyorum.<br><br>
-  <b>Genel yeteneklerim:</b> &nbsp; &nbsp; &nbsp; <mark>Yordam</mark> <mark>KOHA</mark> <mark>Sierra</mark>
+  <b>Genel yeteneklerim:</b> &nbsp; &nbsp; &nbsp; <mark>Yordam</mark> <mark>KOHA</mark> <mark>Sierra</mark> <mark>Web Tasarım</mark> <mark>Veri Tabanı</mark>
   <br><br>
   <b>Diller:</b> &nbsp; &nbsp; &nbsp; <mark>İNGİLİZCE &starf; &starf; &starf; &star; &star;</mark> <mark>ALMANCA &starf; &star; &star; &star; &star;</mark> <mark>OSMANLICA &starf; &starf; &starf; &star; &star;</mark>
 
@@ -26,26 +26,6 @@ experience_title: İş Tecrübelerim
 
 # Education Section
 educaton_title: Akademik Bilgilerim
-
-more_title: Sertifikalar
-more_content: | # this will include new lines to allow paragraphs
-  <ul>
-    <li>A1, A2 seviye İngilizce, Amerikan Dil Kültür Okulları.</li>
-    <li>Ofis Programları Kullanımı, Word, Excel ve Microsoft PowerPoint, İSMEK.</li>
-  </ul>
-  
-more_title: Katılım Belgeleri
-more_content: | # this will include new lines to allow paragraphs
- <ul>
-    <li>Bilginin Gücü Sertifikası” İlber Ortaylı (Tarih Profesörü) </li>
-    <li>Gençlik ve Spor Bakanlığı Damla Projesi Huzurevi Teması Gönüllü Çalışma </li>
-    <li>“Geleceğin İş Hayatı”, “İyi Hissetmeyi Seç”, “Neden Hepimiz Blok Flüt</li>
-    <li>Çaldık?” Yaşamartı Zirve İstanbul, Erdem Aksakal, Ozanser Uğurlu, Burak Ünaldı. </li>
-    <li>Dağcılık</li>
-    <li>“Etkili Konuşma ve Beden Dili” Yaşamartı Zirve İstanbul, Erhan Ertürk (Haber Spikeri) </li>
-    <li>“Çocukların Okuma Alışkanlığı” “Çocuk Kütüphaneleri” İstanbul Üniversitesi Bilgi ve Belge Yöneticileri Derneği </li>
-  </ul>
-  
   
 # More Section
 more_title: Referanslar
@@ -67,6 +47,25 @@ more_content: | # this will include new lines to allow paragraphs
   Hatice Gülçur İnanç TC Cumhurbaşkanlığı Külliyesi Hadımköy Projesi Danışmanı
   <ul>
     <li>Telefon Numarası: 0542 445 73 50 </li>
+  </ul>
+
+more_title: Sertifikalar
+more_content: | # this will include new lines to allow paragraphs
+  <ul>
+    <li>A1, A2 seviye İngilizce, Amerikan Dil Kültür Okulları.</li>
+    <li>Ofis Programları Kullanımı, Word, Excel ve Microsoft PowerPoint, İSMEK.</li>
+  </ul>
+  
+more_title: Katılım Belgeleri
+more_content: | # this will include new lines to allow paragraphs
+ <ul>
+    <li>Bilginin Gücü Sertifikası” İlber Ortaylı (Tarih Profesörü) </li>
+    <li>Gençlik ve Spor Bakanlığı Damla Projesi Huzurevi Teması Gönüllü Çalışma </li>
+    <li>“Geleceğin İş Hayatı”, “İyi Hissetmeyi Seç”, “Neden Hepimiz Blok Flüt</li>
+    <li>Çaldık?” Yaşamartı Zirve İstanbul, Erdem Aksakal, Ozanser Uğurlu, Burak Ünaldı. </li>
+    <li>Dağcılık</li>
+    <li>“Etkili Konuşma ve Beden Dili” Yaşamartı Zirve İstanbul, Erhan Ertürk (Haber Spikeri) </li>
+    <li>“Çocukların Okuma Alışkanlığı” “Çocuk Kütüphaneleri” İstanbul Üniversitesi Bilgi ve Belge Yöneticileri Derneği </li>
   </ul>
 
 # Footer
