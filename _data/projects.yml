@@ -33,3 +33,15 @@
 - layout: top-middle
   name: T.C. Kalkınma Bakanlığı Kütüphanesi Araştırma ve Sunum
   #link: github.com/shrgrl/moviesIndexDemoRedis
+
+- layout: top-middle
+  name: Elektronik Ortamda Bilgi Ve Belge Yönetimi Konusu Araştırma ve Sunum
+  #link: github.com/shrgrl/moviesIndexDemoRedis
+
+- layout: top-middle
+  name: Başbakanlık Devlet Arşivleri Genel Müdürlüğü Cumhuriyet Arşivi Araştırma ve Sunum
+  #link: github.com/shrgrl/moviesIndexDemoRedis
+
+- layout: top-middle
+  name: Türkiye’de Özelleştirilen Kurumlara Yönelik Arşiv Politikaları İnceleme ve Sunum
+  #link: github.com/shrgrl/moviesIndexDemoRedis
