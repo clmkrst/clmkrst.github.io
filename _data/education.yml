@@ -1,16 +1,6 @@
 - layout: left
-  name: Atatürk Üniversitesi
-  dates: 2015 - 2017
-  qualification: Bilgi ve Belge Yönetimi
-  quote: >
-    Atatürk Üniversitesi, 1957 yılında Erzurum'da kurulmuş, Türkiye'nin en eski yedinci üniversitesidir.
-  description: | # this will include new lines to allow paragraphs
-    Atatürk Üniversitesi'nde geçirdiğim süre zarfında takım çalışması ve bireysel çalışmalar gibi kariyerim boyunca gerekli olacak temel becerilerimin çoğunu öğrendim.
- 
- 
-- layout: left
   name: İstanbul Üniversitesi
-  dates: 2017 - 2019
+  dates: 2019
   qualification: Bilgi ve Belge Yönetimi
   quote: >
     18 Kasım 1933'te Türkiye'nin ilk ve tek üniversitesi olarak öğrenim hayatına başlamıştır.
