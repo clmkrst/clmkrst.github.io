@@ -6,6 +6,13 @@
     Türkçe ve yabancı dil kitapların YORDAM üzerinden kataloglamasını yaptım. Etiketleme, RFID gibi bir çok işlemi yaptığım kütüphanede DEWEY üzerinden sınıflandırmasını ve yerleştirilmesi süreçlerini gerçekleştirdim.
     
 - layout: left
+  company: Derya Dil Gençlik Merkezi 
+  job_title: Yönetim Kurulu-Kütüphane Ekip Sorumlusu
+  dates: Mart-Halen, 2021
+  description: | # this will include new lines to allow paragraphs
+    Gençlik ve Spor Bakanlığına bağlı gençlik merkezinde kütüphane yönetim kurulu üyesiyim. Kütüphane konusunda dezavantajlı okulları belirleyip, bağış yoluyla kitap toplama ve kütüphane kurma görevini üstlendim. Bağış yoluyla toplanan kitapların içeriklerini belirleme (okulun hangi düzeyde eğitim verdiğine göre değişiklik gösteriyor), sosyal medya yürütücülüğü ve grubu organize etme, bununların dışındada kitapları DEWEY sistemine göre ayırma işlemlerini gerçekleştiriyorum.
+    
+- layout: left
   company: Gençlik ve Spor Bakanlığı Biz Anadoluyuz Projesi 
   job_title: Koordinatör
   description: | # this will include new lines to allow paragraphs
