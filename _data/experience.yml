@@ -1,24 +1,15 @@
 - layout: left
-  company: Gaziosmanpaşa İlçe Halk Kütüphanesi, İstanbul
-  job_title: Gönüllü Kütüphaneci
-  dates: Ocak-Mart, 2018
+  company: Gençlik ve Spor Bakanlığı Biz Anadoluyuz Projesi 
+  job_title: Koordinatör
   description: | # this will include new lines to allow paragraphs
-    Gönüllü kütüphaneci olarak çalıştım. Halk kütüphanelerinin işleyişi, Kataloglaması ve kullanılan programları tanıma fırsatı yakaladım. Kullanıcı-kütüphane ilişkisi, civardaki okullardaki öğrencilere, kütüphaneleri tanıtma amaçlı programlar düzenleme işlemlerine katıldım.
+    Türkiye’de yaşayan farklı kültürleri kaynaştırmak amacıyla yapılmış projede gönüllü öğretmenlerimiz ve arasında bulunduğum 4 koordinatör ile Karadeniz'den Doğu Anadolu'ya gelen 40 öğrencimizin ilimizin tanıtımını, kültürel etkileşimi ve gelen grubun koordinatörlüğünü üstlendim.
     
 - layout: left
-  company: Sabahattin Zaim Üniversitesi Kütüphanesi, İstanbul
-  job_title: Stajyer Kütüphaneci
-  dates: Haziran-Temmuz, 2018
+  company: Hiperlink
+  job_title: T.C. Cumhurbaşkanlığı Külliyesi Hadımköy Projesi
   description: | # this will include new lines to allow paragraphs
-    Stajyer kütüphaneci olarak çalıştım. Bilgi işlem birimi, kataloglama birimi ve referans hizmetleri birimlerinde yer aldım. YORDAM üzerinden kataloglama yaptım. Veri tabanları, ILL (kütüphaneler arası iş birliği) sistemini öğrenip, uygulama gerçekleştirdim. Kataloglama, tasnif, etiketleme, RDA işlemlerini gerçekleştirdim.
- 
-- layout: left
-  company: T.C. Cumhurbaşkanlığı Devlet Arşivleri Başkanlığı, İstanbul
-  job_title: Stajyer Arşivci
-  dates: Temmuz-Ağustos, 2018
-  description: | # this will include new lines to allow paragraphs
-    Stajyer arşivci olarak görev aldığım çoğunlukla Osmanlı belgelerinin yer aldığı arşivde, Tasnif I, Tasnif II birimleri, Restorasyon birimi ve depoda etkin olarak faaliyet gösterdim. Belgelerin onarımdan, tasnifi, düzenlenmesi ve gömleklerinin değişimi vb. işlemleri öğrendim.
-
+    RDA kataloglama kurallarına göre Yordam kütüphane otomasyon programı kullanarak ayrıntılı kataloglama yapılması, LC sınıflama sistemine göre sınıflama numarası verilmesi, Dewey onlu sınıflama sistemine göre sınıflama numarası verilmesi, RFID ve IC sınıflama numarasına göre kolileme yapılması.
+   
 - layout: left
   company: İstanbul Üniversitesi Merkez Kütüphanesi, İstanbul
   job_title: Dijital Arşiv ve Yazılım Hizmetleri
@@ -27,14 +18,23 @@
     İstanbul Üniversitesi Merkez Kütüphanesinde kataloglama biriminde yer aldım, derleme ve bağış yoluyla gelen materyallerin kataloglamasını yaptım.
    
 - layout: left
-  company: Hiperlink
-  job_title: T.C. Cumhurbaşkanlığı Külliyesi Hadımköy Projesi
+  company: T.C. Cumhurbaşkanlığı Devlet Arşivleri Başkanlığı, İstanbul
+  job_title: Stajyer Arşivci
+  dates: Temmuz-Ağustos, 2018
   description: | # this will include new lines to allow paragraphs
-    RDA kataloglama kurallarına göre Yordam kütüphane otomasyon programı kullanarak ayrıntılı kataloglama yapılması, LC sınıflama sistemine göre sınıflama numarası verilmesi, Dewey onlu sınıflama sistemine göre sınıflama numarası verilmesi, RFID ve IC sınıflama numarasına göre kolileme yapılması.
-   
+    Stajyer arşivci olarak görev aldığım çoğunlukla Osmanlı belgelerinin yer aldığı arşivde, Tasnif I, Tasnif II birimleri, Restorasyon birimi ve depoda etkin olarak faaliyet gösterdim. Belgelerin onarımdan, tasnifi, düzenlenmesi ve gömleklerinin değişimi vb. işlemleri öğrendim.
+
 - layout: left
-  company: Gençlik ve Spor Bakanlığı Biz Anadoluyuz Projesi 
-  job_title: Koordinatör
+  company: Sabahattin Zaim Üniversitesi Kütüphanesi, İstanbul
+  job_title: Stajyer Kütüphaneci
+  dates: Haziran-Temmuz, 2018
   description: | # this will include new lines to allow paragraphs
-    Türkiye’de yaşayan farklı kültürleri kaynaştırmak amacıyla yapılmış projede gönüllü öğretmenlerimiz ve arasında bulunduğum 4 koordinatör ile Karadeniz'den Doğu Anadolu'ya gelen 40 öğrencimizin ilimizin tanıtımını, kültürel etkileşimi ve gelen grubun koordinatörlüğünü üstlendim.
+    Stajyer kütüphaneci olarak çalıştım. Bilgi işlem birimi, kataloglama birimi ve referans hizmetleri birimlerinde yer aldım. YORDAM üzerinden kataloglama yaptım. Veri tabanları, ILL (kütüphaneler arası iş birliği) sistemini öğrenip, uygulama gerçekleştirdim. Kataloglama, tasnif, etiketleme, RDA işlemlerini gerçekleştirdim.
+    
+- layout: left
+  company: Gaziosmanpaşa İlçe Halk Kütüphanesi, İstanbul
+  job_title: Gönüllü Kütüphaneci
+  dates: Ocak-Mart, 2018
+  description: | # this will include new lines to allow paragraphs
+    Gönüllü kütüphaneci olarak çalıştım. Halk kütüphanelerinin işleyişi, Kataloglaması ve kullanılan programları tanıma fırsatı yakaladım. Kullanıcı-kütüphane ilişkisi, civardaki okullardaki öğrencilere, kütüphaneleri tanıtma amaçlı programlar düzenleme işlemlerine katıldım.
     
