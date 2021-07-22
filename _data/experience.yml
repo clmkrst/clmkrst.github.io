@@ -1,4 +1,11 @@
 - layout: left
+  company: Cocoon Çocuk Kütüphanesi
+  job_title: Kütüphane Uzmanı
+  dates: Ocak-Halen, 2021
+  description: | # this will include new lines to allow paragraphs
+    Türkçe ve yabancı dil kitapların YORDAM üzerinden kataloglamasını yaptım. Etiketleme, RFID gibi bir çok işlemi yaptığım kütüphanede DEWEY üzerinden sınıflandırmasını ve yerleştirilmesi süreçlerini gerçekleştirdim.
+    
+- layout: left
   company: Gençlik ve Spor Bakanlığı Biz Anadoluyuz Projesi 
   job_title: Koordinatör
   description: | # this will include new lines to allow paragraphs
